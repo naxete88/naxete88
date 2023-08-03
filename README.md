@@ -37,6 +37,10 @@ Graduated in audiovisual and economic sciences, after 6 years working as a claim
 
 :clipboard: LinkedIn : https://www.linkedin.com/in/ignaciomacayabernad/
 
+### Hackaton Projects
+
+:house_with_garden: Hackaton Tech4Good : Barcelona Active & Mobile World Capital (Data Sciente team member)  https://covert-one.vercel.app/
+
 ### Repository Index
 
 I leave below a list with my works as Data Scientist:
