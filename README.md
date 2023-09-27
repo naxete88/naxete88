@@ -49,7 +49,7 @@ I leave below a list with my works as Data Scientist:
 
 :blue_book: [Classification] https://github.com/naxete88/classification_cibersecurity
 
-:green_book: [Clustering] https://github.com/naxete88/clustering_Facebook
+:green_book: [Clustering] https://github.com/naxete88/clustering_Facebook | https://github.com/naxete88/ClusteringMallCustomerSegmentation
 
 :notebook: [Sentiment Analysis] https://github.com/naxete88/sentiment_analysis_Hobbit
 
